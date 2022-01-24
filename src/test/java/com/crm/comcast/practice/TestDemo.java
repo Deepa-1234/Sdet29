@@ -11,6 +11,7 @@ public static void demoMethod() {
 
 	System.out.println("User 2 commit");
 	System.out.println("This is user 1 in branch");
+	System.out.println("User 1 3rd commit");
 }
 
 }
