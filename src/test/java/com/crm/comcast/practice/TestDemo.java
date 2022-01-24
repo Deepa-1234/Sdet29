@@ -10,7 +10,7 @@ public static void demoMethod() {
 	System.out.println("user 1 2nd commit");
 
 	System.out.println("User 2 commit");
-
+	System.out.println("This is user 1 in branch");
 }
 
 }
