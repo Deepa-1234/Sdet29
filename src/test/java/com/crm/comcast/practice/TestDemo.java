@@ -6,6 +6,7 @@ public class TestDemo {
 @Test
 public static void demoMethod() {
 	System.out.println("User 1 commit");
+	System.out.println("User 2 commit");
 }
 
 }
