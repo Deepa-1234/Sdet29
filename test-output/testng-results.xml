@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-25T18:20:11 IST" name="Suite" finished-at="2022-01-25T18:20:11 IST" duration-ms="94">
+    <groups>
+      <group name="IT">
+        <method signature="ContactTest.executeContactTest()[pri:0, instance:com.crm.comcast.practice.ContactTest@1e6454ec]" name="executeContactTest" class="com.crm.comcast.practice.ContactTest"/>
+        <method signature="OrgTest.orgWithIndustryTest()[pri:0, instance:com.crm.comcast.practice.OrgTest@3d1cfad4]" name="orgWithIndustryTest" class="com.crm.comcast.practice.OrgTest"/>
+      </group> <!-- IT -->
+    </groups>
+    <test started-at="2022-01-25T18:20:11 IST" name="Test" finished-at="2022-01-25T18:20:11 IST" duration-ms="94">
+      <class name="com.crm.comcast.practice.OrgTest">
+        <test-method signature="orgWithIndustryTest()[pri:0, instance:com.crm.comcast.practice.OrgTest@3d1cfad4]" started-at="2022-01-25T18:20:11 IST" name="orgWithIndustryTest" finished-at="2022-01-25T18:20:11 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orgWithIndustryTest -->
+      </class> <!-- com.crm.comcast.practice.OrgTest -->
+      <class name="com.crm.comcast.practice.ContactTest">
+        <test-method signature="executeContactTest()[pri:0, instance:com.crm.comcast.practice.ContactTest@1e6454ec]" started-at="2022-01-25T18:20:11 IST" name="executeContactTest" finished-at="2022-01-25T18:20:11 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeContactTest -->
+      </class> <!-- com.crm.comcast.practice.ContactTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
