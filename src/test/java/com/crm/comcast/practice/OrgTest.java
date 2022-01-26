@@ -12,7 +12,7 @@ public static void orgTest() {
 @Test(groups = "IT")
 public void orgWithIndustryTest() {
 	System.out.println("org with industry");
-	System.out.println("SANTHOSH2: made this SECOND chnages after forking Deepa's Master branch to learn branching");
+	System.out.println("SANTHOSH2::: made this SECOND chnages after forking Deepa's Master branch to learn branching");
 }
 
 }
